@@ -1,0 +1,3 @@
+rootProject.name = 'usuariofacto'
+include 'app-service'
+project(':app-service').projectDir = file('applications/app-service')
